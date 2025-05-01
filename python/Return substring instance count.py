@@ -1,4 +1,4 @@
-# --- 5168b125faced29f66000005 --- 
+# https://www.codewars.com/kata/5168b125faced29f66000005/train/python
 
 # 'abcdeb','b'), 2
 # abc','b'), 1
