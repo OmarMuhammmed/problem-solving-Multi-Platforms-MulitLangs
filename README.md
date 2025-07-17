@@ -16,6 +16,7 @@ The solutions are organized by programming language. Each file represents one ch
 - **Python**
 - **JavaScript**
 - **C++**
+- **Java**
 
 Feel free to explore and learn from the solutions.
 If you have suggestions or improvements, contributions are welcome!
