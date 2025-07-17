@@ -1,6 +1,6 @@
 # Codewars Solutions
 
-This repository contains my solutions to various coding challenges from [Codewars](https://www.codewars.com/), written in multiple programming languages.
+This repository contains my solutions to various coding challenges from [Codewars](https://www.codewars.com/) and [LeetCode](https://leetcode.com/problemset/), written in multiple programming languages.
 
 ## Structure
 
